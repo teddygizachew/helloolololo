@@ -1,0 +1,3 @@
+_extends: github-settings
+# Override values from the extended config or define new value
+name: my repo now
