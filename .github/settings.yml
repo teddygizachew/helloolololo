@@ -2,7 +2,6 @@ _extends: github-settings:.github/settings.yml
 
 repository:
   name: helloolololo
-  description: hellooo test thingy here
 
 labels:
   - name: DO NOT MERGE
