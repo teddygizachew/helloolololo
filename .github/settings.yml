@@ -5,10 +5,9 @@ repository:
 
 labels:
   - name: chore
-    # If including a `#`, make sure to wrap it with quotes!
     color: '#f2df8c'
     description: New functionality.
 
-  - name: DO NOT MERGE
-      color: '#ef5350'
-      description: An issue with the system :(
+  - name: tech-debt
+    color: '#ef5350'
+    description: Pay off the debt
