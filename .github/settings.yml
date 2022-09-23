@@ -1,6 +1,7 @@
-_extends: github-settings
+_extends: github-settings:.github/settings.yml
 
 repository:
+  name: helloolololo
   description: hellooo test thingy here
 
 labels:
