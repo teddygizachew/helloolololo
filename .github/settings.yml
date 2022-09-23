@@ -1,5 +1,8 @@
 _extends: github-settings
 
+repository:
+  description: hellooo test thingy here
+
 labels:
   - name: DO NOT MERGE
     color: '#ef5350'
