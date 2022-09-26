@@ -2,6 +2,7 @@ _extends: github-settings:.github/settings.yml
 
 repository:
   name: helloolololo
+  description: heyy
 
 labels:
   - name: chore
